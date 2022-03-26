@@ -1,2 +1,3 @@
 line 4#@%!@ of file %$#^
 this is line 2
+add more stuff
